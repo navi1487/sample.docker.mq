@@ -1,4 +1,4 @@
-FROM store/ibmcorp/websphere-liberty:webProfile7
+FROM websphere-liberty
 
 MAINTAINER Jamie Coleman <jlcoleman@uk.ibm.com>
 
