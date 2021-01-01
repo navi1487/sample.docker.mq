@@ -1,4 +1,4 @@
-FROM   jonfrank/webprofile7
+FROM   websphere-liberty
 
 MAINTAINER Jamie Coleman <jlcoleman@uk.ibm.com>
 
